@@ -19,3 +19,4 @@ Tiny302 pcb populated with core component, solder side
 Fully populated Tiny302 with EASy68k hardware display
 
 Tiny302 part list
+![rev0pcb](tiny302_rev0_pcb_all_populated.jpg)
