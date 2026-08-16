@@ -1,6 +1,6 @@
 # Tiny302 Prototypes
 
-There are two iterations of the Tiny302 prototypes.
+There were two iterations of the Tiny302 prototypes.
 ### First prototype iteration
 The first iteration was using a surface mounted 68302 removed from a pc board. The RAM and Flash are standard 32-pin through-hole components. The “pc board” is single-sided copper clad board that was scored with a razor blade to create component footprint for RAM Flash. To reduce the number of hand wires, RAM and Flash are “piggy backed” with the Flash on top of the RAM.
 
@@ -8,7 +8,7 @@ The first iteration was using a surface mounted 68302 removed from a pc board. T
 
 The 68302 is glued down upside down so its leads are readily accessible. The ground pins are bent down toward the board and soldered to the copper foil via short wires. The Vcc pins are bent toward the center where a ring is constructed to tie all Vcc together. The number of wires is relatively few due to piggy-back RAM/Flash and 8-bit data bus, but it took a couple evenings to complete due to the delicate soldering.
 
-![High resolution picture](Tiny302_prototype1_topview.jpg) of the 1st iteration Tiny302 prototype
+![High resolution picture](Tiny302_prototype1_topview.jpg) High resolution picture of the 1st iteration Tiny302 prototype
 
 When the 1st prototype was build, I had no working schematic creation tool so the “schematic” for the above prototype was 4 sheets of [hand drawn component pinouts](tiny302_prototype1_schematic_hand_drawn.pdf).
 
