@@ -7,3 +7,5 @@ The components used are through-hole IC's so no advanced soldering techniques ar
 ![prototype 1](Prototypes/Tiny302_prototype1_topview.jpg)
 
 ![prototype 2](Prototypes/Tiny302_prototype2_topview.jpg)
+
+![rev0pcb](Rev0_PCB/tiny302_rev0_pcb_all_populated.jpg)
