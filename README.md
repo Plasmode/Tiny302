@@ -3,7 +3,7 @@ A Minimal Single Board Computer based on MC68302
 This is a more detailed description of the Tiny302 thread on EASy68K forum: http://www.easy68k.com/EASy68Kforum/viewtopic.php?f=10&t=1574
 The purpose is to build a minimal 68000 system that's simple enough to put together as a prototype board in an evening of hand wiring.
 The components used are through-hole IC's so no advanced soldering techniques are needed to put a Tiny302 board together.
-This repository contains three different stages of Tiny302 development as shown in pictures below; two prototype stages followed by a pcb version of the design
+This repository contains three different stages of Tiny302 development as shown in pictures below; [two prototype stages](Prototypes) followed by a [pcb version](Rev0_PCB) of the design
 
 ![prototype 1](Prototypes/Tiny302_prototype1_topview.jpg)
 
