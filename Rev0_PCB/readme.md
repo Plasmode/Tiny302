@@ -4,6 +4,8 @@ After the successful fabrication of Tiny302 prototype and a working monitor runn
 
 Use the naming convention provided by Seeed Studio, the routed design files are zipped and uploaded to Seeed Studio and proofed using their on-line gerber viewer.
 
+![rev0pcb](tiny302_rev0_pcb_all_populated.jpg)
+
 [schematic](tiny302_rev0_scm.pdf) of Tiny302 pcb
 
 [pcb design files](tiny302_rev0_gerber.zip) uploaded to Seeed Studio
@@ -21,7 +23,6 @@ Tiny302 pcb populated with [core component, solder side](tiny302_rev0_pcb_core_s
 Fully populated Tiny302 with EASy68k hardware display
 
 Tiny302 [part list](tiny302_rev0_bom.xlsx)
-![rev0pcb](tiny302_rev0_pcb_all_populated.jpg)
 
 ### Software
 [Tinybug monitor version 0.10](tiny302_rev0_software_tinybugv010.zip)
