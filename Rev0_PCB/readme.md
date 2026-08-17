@@ -22,3 +22,6 @@ Fully populated Tiny302 with EASy68k hardware display
 
 Tiny302 [part list](tiny302_rev0_bom.xlsx)
 ![rev0pcb](tiny302_rev0_pcb_all_populated.jpg)
+
+### Software
+[Tinybug monitor version 0.10](tiny302_rev0_software_tinybugv010.zip)
