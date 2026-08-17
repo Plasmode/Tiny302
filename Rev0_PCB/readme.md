@@ -15,7 +15,9 @@ bare pc board, [solder side](tiny302_rev0_pcb_solder_bare.jpg)
 Core components are the minimal set of parts required to boot up Tiny302.
 
 Tiny302 pcb populated with [core components, component side](tiny302_rev0_pcb_core_comp.jpg)
+
 Tiny302 pcb populated with [core component, solder side](tiny302_rev0_pcb_core_solder.jpg)
+
 Fully populated Tiny302 with EASy68k hardware display
 
 Tiny302 [part list](tiny302_rev0_bom.xlsx)
